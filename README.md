@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
-deploy link for the app noteway.vercel.app
+deploy link for the app [noteway.vercel.app](https://noteway.vercel.app/)
 
 
 ## Available Scripts
