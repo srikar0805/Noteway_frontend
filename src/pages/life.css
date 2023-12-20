@@ -1,0 +1,5 @@
+/* Add this style to your CSS or stylesheet */
+.custom-panel-header .p-panel-titlebar {
+    background-color: darkblue; /* Change to the desired color */
+    color: white; /* Change to the desired text color */
+}

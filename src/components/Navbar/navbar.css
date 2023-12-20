@@ -1,0 +1,27 @@
+/* styles.css */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: #f0f0f0;
+}
+
+.left {
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    font-weight: bold;
+    color: blue;
+}
+
+.right {
+    display: flex;
+    align-items: center;
+}
+
+.link {
+    margin-left: 15px;
+    color: black;
+}
