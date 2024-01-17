@@ -14,8 +14,8 @@ const PickDate = () => {
 
 	const submitHandler = async () => {
 		console.log(date);
-		const response = await axios.post("https://srikar-noteway.onrender.com/find", {
-			date,
+		const response = await axios.post("http://localhost:5005/find", {
+			date: date,
 		});
 		console.log(response);
 
